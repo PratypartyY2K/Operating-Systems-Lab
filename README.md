@@ -1,2 +1,2 @@
 # Operating-Systems-Lab
-These are codes to some programs which are generally given in College as part of Operating Systems Lab exercises
+Collection of programs and assignments were given to me in College as part of Operating Systems Lab exercises
